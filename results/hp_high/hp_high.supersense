@@ -1,0 +1,121 @@
+start_token	end_token	supersense_category	text
+3	4	verb.cognition	dreaming of
+8	8	noun.event	defeat
+10	10	noun.person	Voldemort
+21	21	noun.person	Sirius
+23	24	verb.motion	fallen behind
+28	28	noun.event	time
+31	31	verb.cognition	dreamed
+34	36	noun.location	Department of Mysteries
+38	38	noun.person	Sirius
+40	40	verb.change	died
+43	43	noun.group	world
+47	48	verb.communication	woken up
+51	51	noun.cognition	truth
+53	53	noun.person	Voldemort
+57	57	noun.possession	price
+59	59	verb.stative	been
+71	71	noun.communication	truth
+72	72	verb.stative	was
+76	76	noun.act	attacks
+78	78	verb.change	gotten
+82	82	verb.communication	wondered
+88	88	verb.stative	was
+91	91	noun.person	Ginny
+92	92	verb.stative	was
+97	97	verb.stative	was
+101	101	verb.consumption	needed
+108	108	verb.perception	seem
+110	111	verb.motion	stay away
+113	113	noun.person	Voldemort
+114	114	verb.stative	was
+127	127	noun.person	people
+130	130	noun.group	people
+136	136	verb.change	died
+139	139	verb.communication	counted
+141	141	noun.artifact	steps
+145	145	verb.contact	standing
+151	151	noun.person	Sirius
+153	154	verb.motion	fallen through
+156	162	noun.person	Cedric Sirius Dumbledore Hedwig Moody Dobby Tonks
+163	169	noun.person	father Remus Colin Creevy Tonks Snape Fred
+174	174	noun.person	Crabbe
+179	179	verb.change	die
+198	198	verb.stative	were
+207	207	verb.stative	was
+212	213	verb.motion	stay away
+219	220	verb.perception	look away
+228	228	noun.time	moment
+233	234	verb.motion	walk away
+238	238	noun.person	Harry
+239	239	verb.body	awoke
+242	242	noun.event	start
+246	246	verb.contact	lying
+249	249	noun.artifact	floor
+251	251	verb.contact	covered
+255	255	noun.communication	excuse
+258	258	noun.artifact	blanket
+262	262	verb.perception	appeared
+265	265	verb.social	attempting
+267	267	verb.change	break
+269	269	noun.artifact	door
+276	276	noun.artifact	cannon
+279	279	noun.person	Dudley
+280	280	verb.communication	asked
+282	282	noun.person	Dudley
+287	287	noun.person	Veil
+288	288	verb.motion	sent
+293	293	verb.stative	be
+295	295	noun.person	Hagrid
+297	297	verb.communication	told
+300	300	noun.location	Hogwarts
+310	310	verb.cognition	recall
+313	313	noun.event	time
+317	317	noun.person	Dudley
+320	320	verb.body	sleeping
+323	323	verb.perception	appeared
+325	325	verb.stative	be
+327	327	noun.artifact	shack
+332	332	noun.event	crash
+336	337	noun.person	Uncle Vernon
+338	338	verb.motion	came
+339	339	verb.motion	skidding
+342	342	noun.artifact	room
+344	344	verb.contact	holding
+346	346	noun.artifact	rifle
+348	348	noun.person	Harry
+349	349	verb.communication	snorted
+354	354	verb.creation	do
+356	356	noun.attribute	good
+358	358	noun.person	HAGRID
+360	360	noun.person	His
+361	361	noun.person	uncle
+364	364	verb.perception	seem
+366	366	verb.cognition	know
+372	372	verb.communication	shouted
+379	379	verb.communication	warn
+389	389	verb.communication	occur
+391	391	noun.person	Harry
+394	394	noun.group	people
+396	396	verb.social	trying
+398	399	verb.competition	break in
+405	405	verb.cognition	assumed
+408	408	verb.stative	are
+420	420	verb.cognition	know
+423	423	noun.person	wizard
+425	425	verb.motion	come
+427	427	noun.person	Harry
+433	434	verb.social	get across
+437	437	noun.phenomenon	weather
+446	446	verb.social	bother
+448	448	noun.event	SMASH
+450	450	noun.artifact	door
+451	451	verb.motion	flew
+455	455	noun.artifact	hinges
+457	457	verb.contact	landed
+460	460	noun.artifact	floor
+464	464	noun.event	crash
+466	466	noun.person	Hagrid
+467	467	verb.contact	stood
+470	470	noun.artifact	doorway
+472	472	verb.perception	looking

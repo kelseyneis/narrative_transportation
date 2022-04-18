@@ -1,0 +1,98 @@
+COREF	start_token	end_token	prop	cat	text
+0	0	1	PROP	PER	Kumiko Toga
+0	11	11	PRON	PER	her
+2	11	13	NOM	PER	her older sister
+3	18	18	PRON	PER	their
+4	18	20	NOM	FAC	their own house
+2	23	23	PRON	PER	her
+5	23	24	NOM	PER	her parents
+0	27	27	PRON	PER	she
+6	31	31	NOM	FAC	home
+2	34	34	PRON	PER	her
+1	38	38	PROP	PER	Himiko
+0	43	43	PRON	PER	She
+0	47	47	PRON	PER	she
+0	50	50	PRON	PER	her
+5	50	51	NOM	PER	her parents
+0	54	54	PRON	PER	her
+1	85	85	PROP	PER	Himiko
+3	88	88	PRON	PER	they
+8	95	95	NOM	FAC	stores
+0	98	98	PROP	PER	Kumiko
+9	107	108	NOM	FAC	smaller stores
+0	113	113	PRON	PER	her
+10	113	114	NOM	PER	her sister
+11	119	126	NOM	PER	people who could afford to lose some money
+3	128	128	PRON	PER	They
+12	131	149	NOM	FAC	a shelter tucked into an alleyway using anything waterproof or durable that they could find in a dumpster nearby
+13	135	136	NOM	FAC	an alleyway
+3	143	143	PRON	PER	they
+14	147	149	NOM	FAC	a dumpster nearby
+3	153	153	PRON	PER	they
+3	162	162	PRON	PER	they
+0	174	174	PROP	PER	Kumiko
+15	183	185	NOM	FAC	a nearby shop
+16	189	198	NOM	PER	a young boy she ’d seen on the streets once
+0	192	192	PRON	PER	she
+17	196	197	NOM	FAC	the streets
+0	200	200	PRON	PER	She
+16	204	204	PRON	PER	his
+0	208	208	PRON	PER	she
+18	211	212	NOM	PER	the shopkeeper
+16	221	221	PRON	PER	him
+0	239	239	PRON	PER	she
+0	242	242	PRON	PER	she
+0	245	245	PRON	PER	herself
+19	248	249	NOM	PER	the boy
+18	255	256	NOM	PER	the shopkeeper
+0	262	262	PRON	PER	she
+0	267	267	PRON	PER	her
+3	273	273	PRON	PER	they
+0	297	297	PROP	PER	Kumiko
+0	304	304	PRON	PER	her
+0	309	309	PRON	PER	her
+0	319	319	PRON	PER	she
+0	326	326	PRON	PER	she
+21	331	331	PRON	PER	they
+1	344	344	PROP	PER	Himiko
+1	346	346	PRON	PER	herself
+22	360	361	NOM	GPE	the city
+0	363	363	PROP	PER	Kumiko
+0	377	377	PRON	PER	She
+23	393	394	NOM	VEH	a car
+3	402	402	PRON	PER	their
+24	402	403	NOM	FAC	their shelter
+0	405	405	PROP	PER	Kumiko
+25	410	412	NOM	PER	a flaming hero
+26	414	420	NOM	PER	a man holding some sort of remote
+3	426	426	PRON	PER	their
+27	426	427	NOM	FAC	their alleyway
+28	429	431	NOM	PER	the escaping man
+29	437	441	NOM	FAC	the multi - story building
+3	443	443	PRON	PER	their
+30	447	448	NOM	PER	the hero
+31	451	452	NOM	PER	The man
+30	463	464	NOM	PER	the hero
+30	470	471	NOM	PER	the hero
+30	479	479	PRON	PER	himself
+0	493	493	PROP	PER	Kumiko
+0	495	495	PRON	PER	her
+0	513	513	PRON	PER	she
+34	519	528	NOM	FAC	the building the man had been standing on moments before
+35	521	528	NOM	PER	the man had been standing on moments before
+36	530	531	NOM	FAC	The building
+3	543	543	PRON	PER	their
+37	543	544	NOM	FAC	their home
+0	546	546	PROP	PER	Kumiko
+1	551	551	PROP	PER	Himiko
+3	557	557	PRON	PER	They
+3	562	562	PRON	PER	they
+3	567	567	PRON	PER	they
+38	571	573	NOM	FAC	the open street
+3	585	585	PRON	PER	them
+1	587	587	PROP	PER	Himiko
+39	590	590	PRON	PER	her
+0	595	595	PROP	PER	Kumiko
+39	599	599	PRON	PER	she
+1	602	602	PROP	PER	Himiko
+39	604	604	PRON	PER	she
