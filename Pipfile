@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+seaborn = "*"
+transformers = "*"
+spacy = "*"
+torch = "*"
+nltk = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.8.11"

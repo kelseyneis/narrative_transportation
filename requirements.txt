@@ -1,0 +1,10 @@
+numpy
+pandas
+pymc3
+arviz
+matplotlib
+scipy
+seaborn
+graphviz
+booknlp
+re
