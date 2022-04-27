@@ -12,7 +12,7 @@ start_token	end_token	supersense_category	text
 35	35	noun.attribute	expression
 38	38	noun.body	face
 40	40	verb.stative	was
-42	42	noun.quantity	cross
+42	42	noun.event	cross
 44	44	noun.feeling	sympathy
 46	46	noun.feeling	amusement
 48	48	noun.person	Narcissa
@@ -24,15 +24,16 @@ start_token	end_token	supersense_category	text
 68	68	verb.communication	replied
 74	74	noun.attribute	voice
 78	78	verb.cognition	know
-81	82	verb.cognition	sorted into
-83	83	noun.time	Gryffindor
+81	81	verb.cognition	sorted
+83	83	noun.group	Gryffindor
 88	88	noun.person	Andromeda
 96	96	verb.communication	ask
 100	100	verb.cognition	know
 106	106	verb.stative	being
 110	111	verb.cognition	stand by
 119	119	verb.social	let
-121	121	noun.person	Bellatrix
+121	122	noun.person	Bellatrix Black
+123	123	noun.communication	temper
 124	124	noun.state	tantrum
 125	125	verb.change	ruin
 127	127	noun.state	glow
@@ -88,8 +89,8 @@ start_token	end_token	supersense_category	text
 281	281	noun.event	scene
 284	284	verb.stative	was
 289	289	noun.person	Bella
-290	290	verb.social	agreed
-292	293	verb.competition	hold off
+290	290	verb.emotion	agreed
+292	294	verb.competition	hold off on
 297	297	noun.communication	discussion
 300	300	noun.person	Sirius
 304	304	noun.time	morning
@@ -99,7 +100,7 @@ start_token	end_token	supersense_category	text
 315	315	noun.act	presence
 318	319	noun.location	Gryffindor Tower
 323	323	noun.time	morning
-327	327	noun.time	term
+327	327	noun.communication	term
 331	331	verb.cognition	thought
 334	334	noun.act	duty
 336	336	verb.communication	warn
@@ -111,7 +112,7 @@ start_token	end_token	supersense_category	text
 353	354	noun.artifact	common room
 357	357	noun.time	minutes
 360	360	noun.act	arrival
-364	364	verb.stative	flanked
+364	364	verb.social	flanked
 367	367	noun.person	boys
 373	373	verb.communication	paid
 380	380	verb.emotion	like
