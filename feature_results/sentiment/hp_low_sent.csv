@@ -1,0 +1,29 @@
+,hp_low,preprocess_txt,total_len,pos_count,neg_count,sentiment
+0,“What the hell just happened?” Bella hissed at me from across the table.,"['hell', 'happened', 'bella', 'hissed', 'across', 'table']",6,0,2,-0.33
+1,I looked down the Slytherin table.,"['looked', 'slytherin', 'table']",3,0,0,0.0
+2,"Lucius Malfoy, my fellow prefect, was wearing an expression on his face that was a cross between sympathy and amusement.","['lucius', 'malfoy', 'fellow', 'prefect', 'wearing', 'expression', 'face', 'cross', 'sympathy', 'amusement']",10,0,0,0.0
+3,Narcissa looked as if she was about to vomit.,"['narcissa', 'looked', 'vomit']",3,0,1,-0.33
+4,"“The hat put him into Gryffindor,” I replied in a matter of fact voice.","['hat', 'put', 'gryffindor', 'replied', 'matter', 'fact', 'voice']",7,0,0,0.0
+5,“I know he was sorted into Gryffindor I’m not blind Andromeda.”,"['know', 'sorted', 'gryffindor', 'blind', 'andromeda']",5,0,1,-0.2
+6,"“Well, you did ask...”","['well', 'ask']",2,1,0,0.5
+7,"I know just how irritating I was being, and I stand by it.","['know', 'irritating', 'stand']",3,0,1,-0.33
+8,I was not about to let a Bellatrix Black temper tantrum ruin the glow of my first night as a prefect.,"['let', 'bellatrix', 'black', 'temper', 'tantrum', 'ruin', 'glow', 'first', 'night', 'prefect']",10,1,3,-0.2
+9,"She had obviously, and predictably, taken the result of Sirius’ sorting as a personal offense.","['obviously', 'predictably', 'taken', 'result', 'sirius', 'sorting', 'personal', 'offense']",8,0,0,0.0
+10,Bella continued to mutter angrily and slightly threateningly under her breath until Professor McGonagall shot her a filthy look.,"['bella', 'continued', 'mutter', 'angrily', 'slightly', 'threateningly', 'breath', 'professor', 'mcgonagall', 'shot', 'filthy', 'look']",12,0,2,-0.17
+11,Professor McGonagall was no fan of Bella’s.,"['professor', 'mcgonagall', 'fan', 'bella']",4,0,0,0.0
+12,"Bellatrix completely ignored McGonagall’s glare, so I, seeing no other option, kicked her under the table.","['bellatrix', 'completely', 'ignored', 'mcgonagall', 'glare', 'seeing', 'option', 'kicked', 'table']",9,0,1,-0.11
+13,That shut her up.,['shut'],1,0,0,0.0
+14,I didn’t really pay attention to the rest of the Sorting.,"['really', 'pay', 'attention', 'rest', 'sorting']",5,0,0,0.0
+15,I had no reason to now that Sirius had been sorted.,"['reason', 'sirius', 'sorted']",3,0,0,0.0
+16,"Of course, I greeted every new Slytherin as befitted a prefect, but I didn’t pay attention in between new Slytherins.","['course', 'greeted', 'every', 'new', 'slytherin', 'befitted', 'prefect', 'pay', 'attention', 'new', 'slytherins']",11,0,0,0.0
+17,Most of my concentration that evening was on keeping Bella from marching over to the Gryffindor table and making a scene.,"['concentration', 'evening', 'keeping', 'bella', 'marching', 'gryffindor', 'table', 'making', 'scene']",9,0,0,0.0
+18,"I was mildly successful, and Bella agreed to hold off on her “discussion” with Sirius until the following morning.","['mildly', 'successful', 'bella', 'agreed', 'hold', 'discussion', 'sirius', 'following', 'morning']",9,1,0,0.11
+19,That “discussion” was the reason for my presence outside of Gryffindor Tower on the first morning of the new term.,"['discussion', 'reason', 'presence', 'outside', 'gryffindor', 'tower', 'first', 'morning', 'new', 'term']",10,0,0,0.0
+20,I thought it my duty to warn Sirius of the explosion making its way up from the dungeons.,"['thought', 'duty', 'warn', 'sirius', 'explosion', 'making', 'way', 'dungeon']",8,0,1,-0.12
+21,He emerged from his common room about ten minutes after my arrival.,"['emerged', 'common', 'room', 'ten', 'minute', 'arrival']",6,0,0,0.0
+22,"He was flanked by three boys, none of whom I paid much attention to.","['flanked', 'three', 'boy', 'none', 'paid', 'much', 'attention']",7,0,0,0.0
+23,"I would like to say that my first encounter with Remus Lupin stands out clearly in my mind, but really, all it left was a vague impression of brown hair and an honest smile.","['would', 'like', 'say', 'first', 'encounter', 'remus', 'lupin', 'stand', 'clearly', 'mind', 'really', 'left', 'vague', 'impression', 'brown', 'hair', 'honest', 'smile']",18,4,1,0.17
+24,"I warned Sirius of Bella’s approach, and Sirius managed to avoid her until late in the afternoon.","['warned', 'sirius', 'bella', 'approach', 'sirius', 'managed', 'avoid', 'late', 'afternoon']",9,0,1,-0.11
+25,The resulting argument wasn’t pretty; their arguments never were.,"['resulting', 'argument', 'pretty', 'argument', 'never']",5,1,0,0.2
+26,The argument progressed along predictable lines: Sirius was disgracing the family and Bellatrix was blaming him for something he claimed to not have much control over,"['argument', 'progressed', 'along', 'predictable', 'line', 'sirius', 'disgracing', 'family', 'bellatrix', 'blaming', 'something', 'claimed', 'much', 'control']",14,0,0,0.0
+27,"(I always suspected that he had nudged the hat away from putting him in Slytherin, but I never discussed it with him).","['always', 'suspected', 'nudged', 'hat', 'away', 'putting', 'slytherin', 'never', 'discussed']",9,0,0,0.0
