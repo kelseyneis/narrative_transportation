@@ -12,6 +12,8 @@ transformers = "*"
 spacy = "*"
 torch = "*"
 nltk = "*"
+textstat = "*"
+sklearn = "*"
 
 [dev-packages]
 ipykernel = "*"
