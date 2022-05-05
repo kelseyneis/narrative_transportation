@@ -1,0 +1,36 @@
+,hp_high,preprocess_txt,total_len,pos_count,neg_count,sentiment
+0,He'd been dreaming of it since the defeat of Voldemort.,"['dreaming', 'since', 'defeat', 'voldemort']",4,1,0,0.25
+1,"The Veil, that is.",['veil'],1,0,0,0.0
+2,The one that Sirius had fallen behind.,"['one', 'sirius', 'fallen', 'behind']",4,0,1,-0.25
+3,"The last time he'd dreamed about the Department of Mysteries, Sirius had died.","['last', 'time', 'dreamed', 'department', 'mystery', 'sirius', 'died']",7,0,2,-0.29
+4,"The world had also finally woken up to the truth about Voldemort, but the price had been too high for him to be grateful.","['world', 'also', 'finally', 'woken', 'truth', 'voldemort', 'price', 'high', 'grateful']",9,1,0,0.11
+5,"And once the truth was out, the attacks had gotten worse.","['truth', 'attack', 'gotten', 'worse']",4,0,2,-0.5
+6,"He wondered, briefly, why he was there.","['wondered', 'briefly']",2,0,0,0.0
+7,"Ginny was at home, she was pregnant, she needed him.","['ginny', 'home', 'pregnant', 'needed']",4,0,0,0.0
+8,Yet he could not seem to stay away.,"['yet', 'could', 'seem', 'stay', 'away']",5,0,0,0.0
+9,"Voldemort was gone, true.","['voldemort', 'gone', 'true']",3,0,0,0.0
+10,"But then, so were so many other people, good people, who should not have died.","['many', 'people', 'good', 'people', 'died']",5,1,1,0.0
+11,He counted the steps until he was standing right in front of where Sirius had fallen through.,"['counted', 'step', 'standing', 'right', 'front', 'sirius', 'fallen']",7,1,1,0.0
+12,Cedric Sirius Dumbledore Hedwig Moody Dobby Tonks father Remus Colin Creevy Tonks Snape Fred.,"['cedric', 'sirius', 'dumbledore', 'hedwig', 'moody', 'dobby', 'tonks', 'father', 'remus', 'colin', 'creevy', 'tonks', 'snape', 'fred']",14,0,1,-0.07
+13,"Hell, even Crabbe didn't deserve to die then.","['hell', 'even', 'crabbe', 'deserve', 'die']",5,0,2,-0.4
+14,"There were more, many more, but none of them close to him.","['many', 'none', 'close']",3,0,0,0.0
+15,"They were close to somebody, though.","['close', 'somebody', 'though']",3,0,0,0.0
+16,Maybe that was why he couldn't stay away.,"['maybe', 'stay', 'away']",3,0,0,0.0
+17,Why he couldn't look away.,"['look', 'away']",2,0,0,0.0
+18,"Why, even at that very moment, he couldn't walk away.","['even', 'moment', 'walk', 'away']",4,0,0,0.0
+19,---.,[],0,0,0,
+20,Harry awoke with a start.,"['harry', 'awoke', 'start']",3,0,0,0.0
+21,"He was lying on a floor, covered by a poor excuse for a blanket, and someone appeared to be attempting to break the door down.","['lying', 'floor', 'covered', 'poor', 'excuse', 'blanket', 'someone', 'appeared', 'attempting', 'break', 'door']",11,0,4,-0.36
+22,"""Where's the cannon,"" Dudley asked.","['cannon', 'dudley', 'asked']",3,0,0,0.0
+23,"Dudley, Where had the Veil sent him?","['dudley', 'veil', 'sent']",3,0,0,0.0
+24,Could this be when Hagrid first told him about Hogwarts?,"['could', 'hagrid', 'first', 'told', 'hogwarts']",5,0,0,0.0
+25,"It must be, because he couldn't recall any other time where he and Dudley had been sleeping in what appeared to be a shack.","['must', 'recall', 'time', 'dudley', 'sleeping', 'appeared', 'shack']",7,0,0,0.0
+26,"There was a crash behind them and Uncle Vernon came skidding into the room, holding a rifle.","['crash', 'behind', 'uncle', 'vernon', 'came', 'skidding', 'room', 'holding', 'rifle']",9,0,1,-0.11
+27,Harry snorted.,"['harry', 'snorted']",2,0,0,0.0
+28,Like that would do any good against HAGRID.,"['like', 'would', 'good', 'hagrid']",4,2,0,0.5
+29,"His uncle didn't seem to know that, though, and shouted ""Who's there, I warn you-I'm armed!""","['uncle', 'seem', 'know', 'though', 'shouted', 'warn', 'armed']",7,0,0,0.0
+30,"Although it did occur to Harry that when people were trying to break in, it can generally be assumed that they are probably armed as well.","['although', 'occur', 'harry', 'people', 'trying', 'break', 'generally', 'assumed', 'probably', 'armed', 'well']",11,1,1,0.0
+31,And as if they didn't know that a wizard had come for Harry.,"['know', 'wizard', 'come', 'harry']",4,0,0,0.0
+32,"Who else COULD even get across in this weather, not to mention who else would even bother?","['else', 'could', 'even', 'get', 'across', 'weather', 'mention', 'else', 'would', 'even', 'bother']",11,0,1,-0.09
+33,SMASH The door flew clean off its hinges and landed on the floor with a thunderous crash.,"['smash', 'door', 'flew', 'clean', 'hinge', 'landed', 'floor', 'thunderous', 'crash']",9,1,2,-0.11
+34,"Hagrid stood in the doorway, looking very impressive.","['hagrid', 'stood', 'doorway', 'looking', 'impressive']",5,1,0,0.2
